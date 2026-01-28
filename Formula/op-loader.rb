@@ -5,8 +5,8 @@
 class OpLoader < Formula
   desc "Tui for configuring 1password secrets for injection into your shell environment"
   homepage "https://github.com/idiomattic/op-loader"
-  url "https://github.com/idiomattic/op-loader/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "1771308fd805daca35a17b5e4a627ad28e83dc2c743795ad55025d1d79c441f6"
+  url "https://github.com/idiomattic/op-loader/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "4a538a780f743e1f148a3fe0fd540074211dd59176c5164aae76f205b5e4bbb1"
 
   depends_on "rust" => :build
 
